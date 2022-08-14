@@ -10,8 +10,14 @@ import UploadRoute from "./Routes/UploadRoute.js";
 import ChatRoute from './Routes/ChatRoute.js';
 import MessageRoute from './Routes/MessageRoute.js';
 
+
+
+
+
 // Routes
 const app = express();
+
+
 
 //Public images
 app.use(express.static('public'))
