@@ -8,7 +8,7 @@ export const TrendData= [
     shares: 72.7,
   },
   {
-    name: "VM Media",
+    name: "VM Social",
     shares: 66.55,
   },
   {
